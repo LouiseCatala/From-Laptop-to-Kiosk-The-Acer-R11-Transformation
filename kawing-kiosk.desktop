@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=KAWING Kiosk
+Comment=Launch KAWING after login
+Exec=/home/kawing/kawing-resume.sh
+Terminal=false
+Hidden=false
+X-GNOME-Autostart-enabled=true

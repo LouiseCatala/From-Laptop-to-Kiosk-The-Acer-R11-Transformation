@@ -1,0 +1,95 @@
+<!DOCTY	PE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>KAWING - Connecting</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        width: 100vw;
+        height: 100vh;
+        background:
+            radial-gradient(circle at center, #f5f7e8 0%, #e7edd3 55%, #d5dfb6 100%);
+        font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        color: #24351f;
+    }
+
+    .container {
+        text-align: center;
+        padding: 40px;
+    }
+
+    .grain {
+        font-size: 72px;
+        animation: float 2s ease-in-out infinite;
+    }
+
+    h1 {
+        margin: 15px 0 8px;
+        font-size: 42px;
+        letter-spacing: 4px;
+    }
+
+    p {
+        margin: 0;
+        font-size: 20px;
+        opacity: 0.8;
+    }
+
+    .loader {
+        width: 55px;
+        height: 55px;
+        margin: 30px auto;
+        border: 6px solid rgba(36, 53, 31, 0.15);
+        border-top-color: #24351f;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+    }
+
+    .status {
+        font-size: 15px;
+        opacity: 0.65;
+    }
+
+    @keyframes spin {
+        to { transform: rotate(360deg); }
+    }
+
+    @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="grain">🌾</div>
+
+    <h1>KAWING</h1>
+
+    <p>Connecting to the KAWING system...</p>
+
+    <div class="loader"></div>
+
+    <div class="status">
+        Please wait while the kiosk connects to the server.
+    </div>
+
+</div>
+
+</body>
+</html>
