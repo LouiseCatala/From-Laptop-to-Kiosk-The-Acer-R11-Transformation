@@ -1,0 +1,12 @@
+[Unit]
+Description=KAWING Battery Charge Limiter
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/sbin/kawing-battery-limit.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

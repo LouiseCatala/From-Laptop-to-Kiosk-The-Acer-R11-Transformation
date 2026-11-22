@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Start KAWING
+Comment=Launch the KAWING kiosk
+Exec=/home/kawing/kawing-resume.sh
+Icon=web-browser
+Terminal=false
+StartupNotify=true
+Categories=Network;
