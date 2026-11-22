@@ -6,7 +6,7 @@ The README embeds third-party reference images **from their source URLs** instea
 
 | Section | Reference image/source | Attribution |
 |:--|:--|:--|
-| Original laptop CAD drawing | [`../CAD/R11 laptop.png`](../../CAD/R11%20laptop.png) | Catala, Orland Louise (original AutoCAD visualization) |
+| Original Chromebook R11 | [`Kiosk-Configuration/Images/r11.png`](Kiosk-Configuration/Images/r11.png) | Catala, Orland Louise (original AutoCAD visualization) |
 | CYAN write-protection screw | [MrChromebox image](https://docs.mrchromebox.tech/images/wp/cyan_wp.jpg) | MrChromebox |
 | Firmware terminal illustration | [iFixit Chromebook-to-Linux guide](https://www.ifixit.com/Guide/How+to+convert+a+generic+Chromebook+to+Linux+OS/108259) | iFixit (different Chromebook model) |
 | Debian 13 installer illustration | [LinuxTechi installation guide](https://www.linuxtechi.com/how-to-install-debian-13-step-by-step/) | LinuxTechi (not original installation capture) |
