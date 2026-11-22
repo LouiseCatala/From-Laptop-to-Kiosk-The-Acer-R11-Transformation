@@ -280,11 +280,15 @@ You may view and learn from this documentation. Reproducing or redistributing my
 
 <div align="center">
 
-### FROM AN OLD CHROMEBOOK TO A PURPOSE-BUILT KAWING KIOSK
+## A SECOND LIFE FOR AN OLD LAPTOP.
 
-*Limited resources. A practical solution. A second life for a laptop.*
+*One device. A different purpose. A new beginning.*
 
-**Created by Catala, Orland Louise**
+**Created and visualized by Catala, Orland Louise**
+
+**Built with purpose, not a big budget.**
+
+---
 
 [← Back to Main Repository](../README.md)
 
