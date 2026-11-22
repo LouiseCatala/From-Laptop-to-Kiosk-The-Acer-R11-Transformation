@@ -41,9 +41,9 @@ The [CAD folder](../CAD/README.md) shows how I redesigned the physical laptop. *
 The original device was an **Acer Chromebook R11**, a convertible laptop equipped with an 11.6-inch touchscreen. Its original operating system was **ChromeOS**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouiseCatala/From-Laptop-to-Kiosk-The-Acer-R11-Transformation/main/CAD/R11%20laptop.png" width="550" alt="Original Acer Chromebook R11">
+  <img src="https://raw.githubusercontent.com/LouiseCatala/From-Laptop-to-Kiosk-The-Acer-R11-Transformation/main/Kiosk-Configuration/Images/r11.png" width="550" alt="Original Acer Chromebook R11">
 
-  <p><em>Fig. 1 — AutoCAD visualization of the Acer Chromebook R11 (my CAD project image).</em></p>
+  <p><em>Fig. 1 — Original visualization of the Acer Chromebook R11 (Showing the first landing page of KAWING).</em></p>
 </div>
 
 ### 02 — Removing the Firmware Write-Protection Screw
